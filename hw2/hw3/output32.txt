@@ -1,0 +1,21 @@
+postfix:BAC-*
+prefix:+A*B/C-EF
+postfix:FE-C/B*A+
+postfix:AB-C-D/
+postfix:AB-CF*-D/E+
+
+prefix:+A*B/C-EF
+
+Reserve Size: 4
+
+Top of Reserve: postfix:AB-CF*-D/E+
+
+postfix:BAC-*
+prefix:+A*B/C-EF
+
+prefix:+E/D-*FC-BA
+postfix:AB-C-D/
+postfix:FE-C/B*A+
+postfix:BAC-*
+prefix:+A*B/C-EF
+

@@ -1,0 +1,32 @@
+--- ans31.txt	2023-07-03 16:59:47.822986250 +0000
++++ output31.txt	2023-07-03 17:00:36.291148185 +0000
+@@ -1,4 +1,3 @@
+-List:
+ postfix:AB+CD-*
+ prefix:+*ABC
+ 
+@@ -6,20 +5,15 @@
+ prefix:+*ABC
+ postfix:AB+CD-*
+ 
+-List:
+-prefix:*+AB-CD
++prefix:*-DC+BA
+ prefix:+*ABC
+ 
+-List:
+-postfix:AB+CD-*
++postfix:DC-BA+*
+ postfix:AB*C+
+ 
+-List:
+ prefix:*+AB-CD
+-prefix:+*ABC
++prefix:+C*BA
+ 
+-List:
+ postfix:AB+CD-*
+-prefix:+*ABC
+-
++prefix:+C*BA
+ 

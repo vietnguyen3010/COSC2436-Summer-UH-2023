@@ -1,0 +1,27 @@
+--- ans32.txt	2023-07-03 16:59:47.643000509 +0000
++++ output32.txt	2023-07-03 22:37:30.796490933 +0000
+@@ -1,23 +1,19 @@
+-List:
+ postfix:BAC-*
+ prefix:+A*B/C-EF
+ postfix:FE-C/B*A+
+ postfix:AB-C-D/
+ postfix:AB-CF*-D/E+
+ 
+-List:
+ prefix:+A*B/C-EF
+ 
+ Reserve Size: 4
+ 
+ Top of Reserve: postfix:AB-CF*-D/E+
+ 
+-List:
+ postfix:BAC-*
+ prefix:+A*B/C-EF
+ 
+-List:
+-prefix:+/--AB*CFDE
++prefix:+E/D-*FC-BA
+ postfix:AB-C-D/
+ postfix:FE-C/B*A+
+ postfix:BAC-*

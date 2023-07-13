@@ -1,0 +1,19 @@
+postfix:AB+CD-*
+prefix:+*ABC
+
+Reversed List:
+prefix:+*ABC
+postfix:AB+CD-*
+
+prefix:*-DC+BA
+prefix:+*ABC
+
+postfix:DC-BA+*
+postfix:AB*C+
+
+prefix:*+AB-CD
+prefix:+C*BA
+
+postfix:AB+CD-*
+prefix:+C*BA
+

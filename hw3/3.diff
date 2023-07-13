@@ -1,0 +1,15 @@
+--- ans33.txt	2023-07-03 16:59:47.463014765 +0000
++++ output33.txt	2023-07-03 22:37:30.800490622 +0000
+@@ -1,4 +1,3 @@
+-List:
+ prefix:+*X/BC/FG
+ postfix:BX+TG*H/-A+
+ postfix:ALDMUP*****
+@@ -9,7 +8,6 @@
+ List:
+ EMPTY
+ 
+-List:
+ prefix:+++++QWERTY
+ postfix:LED+-SCM*+-G/
+ prefix:--------QEDFGHVCS
